@@ -1,2 +1,2 @@
-# hate_speechclassification
+# hate_speech_classification
 Hate Speech Classification
